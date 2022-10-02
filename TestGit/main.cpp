@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-	return 9;
+	return 0;
 }
