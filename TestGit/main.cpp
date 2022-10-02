@@ -3,5 +3,6 @@ using namespace std;
 
 int main()
 {
-	return 9;
+	cout << "Task loops!" << endl;
+	return 0;
 }
